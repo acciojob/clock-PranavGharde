@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+body{
+	font-family: Arial, sans-serif;
+	padding: 30px;
+}
+#timer{
+	font-size: 24px;
+	color: #333;
+}
